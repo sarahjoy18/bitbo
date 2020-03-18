@@ -1,0 +1,11 @@
+bitbo
+	/.env
+	/config/database.php
+	/app/Helpers/DatabaseConnection.php --changed mysqlq1 to mysql in line 10 and 19
+	/app/Http/Controllers/InstallationController.php --commented $server_password = request()->file(''); in line 63
+							 --$port is not included in mysqli_connect
+	/storage/app --the no file "barangay_it_db.sql", tried pasting the latest database file.. but it is already populated with different LGU's data :D
+
+
+
+

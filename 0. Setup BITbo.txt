@@ -1,0 +1,8 @@
+1. Install Docker Toolbox
+2. Install VirtualBox
+3. Double click "Docker Quickstart Terminal" on your desktop
+4. Navigate to "bitbo" folder
+5. Double click _prepare.sh
+6. In your web browser, nagivate to 
+	bitbo - 192.168.99.100:8000/  
+	phpmyadmin - 192.168.99.100:8899/  
